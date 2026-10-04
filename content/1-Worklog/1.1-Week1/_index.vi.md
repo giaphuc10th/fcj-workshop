@@ -28,8 +28,8 @@ pre: " <b> 1.1. </b> "
 ### Kết quả đạt được tuần 1:
 
 * Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
+  * Computeajsdnasjd
+  * Storageamnsdnajsd
   * Networking 
   * Database
   * ...
